@@ -1,0 +1,64 @@
+Q1)Explain the following Linux commands with an example. Share the screenshot of each command with the output:
+
+
+
+   1.pwd:
+       -Print Working Directory : It writes the full pathname of the current working directory to the standard output directory.
+       Eg:pwd
+   
+   2.vi:
+       -Vi is used to start the visual mode for editing a file.
+       Eg:vi filename.
+   
+   3.touch:
+       -Creates an empty file with a specified name.It is also used to change the timestamps.
+       Eg:touch filename.txt
+
+   4.mkdir:Make directory
+       -It is used to create new Unix/Linux directories
+       Eg:mkdir student    
+
+   5.rm:Remove directory
+       -It is used to delete a specified file.
+       Eg:rm student.txt
+
+   6.ls:
+       -It is used to remove the contents of directory.
+       Eg:ls -a
+
+   7.echo:
+       -Echo is used to display the line of text.
+       Eg:echo Iam a student.
+
+   8.cat:concatenate
+       -It is used to view,create,concat multiple files at the same time.
+       Eg:cat student.txt
+   
+   9.who:
+       -It is used to say which user is currently logged in.
+       Eg:who
+     
+
+   10.cd:Change directory
+       -It is used to change the current working directory.
+       Eg:cd student/student1
+
+   11.date:
+       -It changes the system time and date and it is also used to print the time and date.
+       Eg:date
+
+   12.cal:Calendar
+       -It is used to display the calendar in the terminal.
+       Eg:cal -3 - displays three months: last month, this month, and next month.
+
+   13.mv:Move file
+       -It is used to move the source file to the directory.
+       Eg:mv student.txt destination-directory.
+
+   14.cp:copy
+       -It is used to make the copy of file or directory.
+        Eg: cp org -file newfile.
+
+   15.which:
+       -It is used for finding the pathnames of the files which will be executed.
+	Eg.which sh
